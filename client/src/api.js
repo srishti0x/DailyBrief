@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://dailybrief-b1ud.onrender.com/all-news", // Backend URL
+  baseURL: "https://dailybrief-b1ud.onrender.com", // Backend URL
 });
 
 // All news
